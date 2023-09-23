@@ -1,4 +1,4 @@
-# wuji-car-rent
+# wuji-jjchat
 基于SpringBoot的实时聊天系统(源码+讲解+调试运行）做毕设课设均可 2. 技术栈    前后端分离         前端使用:  Vue+ Element  后端使用:  SpringBoot + Mysql8.0 +Mybatis+WebSocket  
 含毕设源码,含代码讲解,含远程调试到你电脑上;适合毕设 课设,阿里大佬亲录,哔哩哔哩粉丝6W![image](https://github.com/root121toor/wujimallv1/assets/65600595/0ba5a02d-c381-469d-bc49-b5523659f6fb)
 
